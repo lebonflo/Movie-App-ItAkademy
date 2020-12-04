@@ -1,0 +1,12 @@
+.prettierrc
+.eslintrc.js
+babel.config.js
+
+# DO ignore JSON-with-comments files
+tsconfig.json
+
+node_modules/*
+ios/*
+android/*
+__tests__/*
+resources/*
